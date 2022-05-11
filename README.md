@@ -25,10 +25,17 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=fpemostafa&theme=radical">
 </p>
 
-
-
+<!--
+<p align = "center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpemostafa&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/fpemostafa/github-readme-stats)
+</p>
+-->
 
+
+<p align="center">
+
+  <img align="center" alt="Mostafa's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fpemostafa&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+</p>
 
 <!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fpemostafa&include_all_commits=true&ttheme=radical&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mostafa's Github Stats">
